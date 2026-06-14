@@ -1,6 +1,6 @@
 cask "is-claude-vibing" do
-  version "1.0.1"
-  sha256 "1f78c4e00e6820af9bbed05f8674306325e56b2f254d6aafa20d61dd7299667d"
+  version "1.0.2"
+  sha256 "01138b1c7e7b7f13d01fa6dd0c6d930860299af6efacc4380079115f97bd84af"
 
   url "https://github.com/ml-dalos/is_claude_vibing/releases/download/v#{version}/IsClaudeVibing.zip"
   name "Is Claude Vibing"
